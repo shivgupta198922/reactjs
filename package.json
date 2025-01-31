@@ -6,6 +6,8 @@
     "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
+    "formic": "^0.0.10",
+    "formik": "^2.4.6",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.7",
     "react-dom": "^19.0.0",
